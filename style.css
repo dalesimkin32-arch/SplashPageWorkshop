@@ -1,0 +1,19 @@
+.edging {
+    padding: 20px;
+}
+
+.pageBorder {
+    display:flex;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+
+.copyrightMsg {
+    display: flex;
+    justify-content: center;
+
+
+}
